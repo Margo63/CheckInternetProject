@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.checkInternet
+Exec=/usr/bin/ru.auroraos.checkInternet
+Name=CheckInternet
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=DeviceInfo;Downloads;Internet
+OrganizationName=ru.auroraos
+ApplicationName=checkInternet
+ExecDBus=/usr/bin/ru.auroraos.checkInternet
